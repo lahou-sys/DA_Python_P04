@@ -72,12 +72,12 @@ Le programme doit gérer automatiquement les matchs du tournoi en créant les pa
 
 - Par téléchargement:
   
- lien de téléchargement : https://github.com/lahou-sys/DA_Python_P06/archive/refs/heads/main.zip
+ lien de téléchargement : https://github.com/lahou-sys/DA_Python_P04/archive/refs/heads/master.zip
 
 - Par "git clone":
   
 ```ssh
-git clone https://github.com/lahou-sys/DA_Python_P06.git
+git clone https://github.com/lahou-sys/DA_Python_P04.git
 ```
 
 
