@@ -603,7 +603,7 @@ Contenu du fichier:
 
 ```ssh
 [flake8]
-exclude = .env/
+exclude = .venv/
 max-line-length = 119
 format= html
 htmldir= flake-report
