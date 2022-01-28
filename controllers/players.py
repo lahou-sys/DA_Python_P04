@@ -84,6 +84,8 @@ class PlayersController(AbstractController):
         reponse = self.player_view.request_user_validation_to_continue()
         if reponse != "Y":
             return False
+        else:
+            return True
 
     def check_number_player_is_ok(self, nbr_of_player_expected, nbr_of_player_in_base):
         '''Check if the expected number of players is reached.

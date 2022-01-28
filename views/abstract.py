@@ -84,7 +84,7 @@ class AbstractView(ABC):
                 print(
                     "Je n'ai pas pu identifier votre réponse, veuillez la saisir à nouveau s'il vous plaît."
                 )
-            return validation
+        return validation
 
     @staticmethod
     def display_message_to_user(message: str):
