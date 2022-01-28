@@ -32,11 +32,3 @@ class Participant(Player):
             "ladder": self.ladder,
             "opponents": self.opponents,
         }
-
-    # @property
-    # def serialize_player_match(self):
-    #     return {
-    #         "first_name": self.first_name,
-    #         "last_name": self.last_name,
-    #         "id": self.player_id,
-    #     }
